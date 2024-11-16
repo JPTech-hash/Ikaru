@@ -1,0 +1,5 @@
+# Ignore build outputs
+built/
+*.o
+*.out
+*.log
